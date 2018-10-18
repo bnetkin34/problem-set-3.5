@@ -1,8 +1,25 @@
 body {
     background-color: maroon;
-    color: white
+    color: white;
+    margin-top: 10px;
+}
+
+p{
+  font-family: Times;
+    font-size: 19px;
 }
 
 a {
   color: white;
+}
+
+img{
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 5%
+}
+
+a:hover{
+  background-color: black;
 }

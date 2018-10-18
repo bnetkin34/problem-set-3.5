@@ -1,7 +1,23 @@
 body {
     background-color: gold;
+    margin-top: 10px;
+}
+
+p{
+  font-family: Times;
 }
 
 a {
   color: black;
+}
+
+img{
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 5%
+}
+
+a:hover{
+  background-color: lightblue;
 }
