@@ -18,6 +18,12 @@ img{
 a:hover{
   background-color: black;
 }
+a:active{
+  color:purple;
+}
+a:link{
+  text-decoration: none;
+}
 
 h1{
   text-decoration: underline;
