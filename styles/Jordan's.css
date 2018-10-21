@@ -2,15 +2,10 @@ body {
     background-color: maroon;
     color: white;
     margin-top: 10px;
-}
-
-p{
-  font-family: Times;
     font-size: 19px;
-}
-
-a {
-  color: white;
+    font-style: italic;
+    font-weight: 900;
+    font-family: times;
 }
 
 img{
@@ -22,4 +17,19 @@ img{
 
 a:hover{
   background-color: black;
+}
+
+h1{
+  text-decoration: underline;
+}
+
+*{
+  color: white;
+}
+
+#font-family3{
+  font-family: arial;
+}
+#font-family6{
+  font-family: arial;
 }
