@@ -38,3 +38,7 @@ h1{
 #font-family4{
   font-family: arial;
 }
+
+ul > li{
+  padding: 10px;
+}

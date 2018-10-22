@@ -48,3 +48,7 @@ font-family: arial;
 h2.Titles4 {
 font-family: arial;
 }
+
+ul > li{
+  padding: 10px;
+}

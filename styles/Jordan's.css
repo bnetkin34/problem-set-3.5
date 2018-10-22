@@ -39,3 +39,7 @@ h1{
 #font-family6{
   font-family: arial;
 }
+
+ul > li{
+  padding: 10px;
+}
