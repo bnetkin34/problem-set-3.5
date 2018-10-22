@@ -45,3 +45,7 @@ h1{
 ul > li{
   padding: 10px;
 }
+
+h3 + p{
+  text-decoration: underline;
+}
