@@ -56,3 +56,11 @@ ul > li{
 h3 + p{
   text-decoration: underline;
 }
+
+span{
+  background-color: lightblue;
+}
+
+#font{
+  font-family: cursive;
+}

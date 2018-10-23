@@ -33,6 +33,10 @@ h1{
   color: white;
 }
 
+#font-family03{
+  font-family: arial;
+}
+
 #font-family3{
   font-family: arial;
 }
@@ -46,4 +50,8 @@ ul > li{
 
 h3 + p{
   text-decoration: underline;
+}
+
+span{
+  font-family: cursive;
 }

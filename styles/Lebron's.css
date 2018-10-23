@@ -31,12 +31,21 @@ a:link{
 h1{
   text-decoration: underline;
 }
-#font-family1{
+
+#font-family{
+  font-family: arial;
+}
+
+#font-family01{
   font-family: arial;
 }
 
 #font-family4{
   font-family: arial;
+}
+
+#font1{
+  font-family: cursive;
 }
 
 ul > li{
@@ -49,4 +58,8 @@ h3 + p{
 
 h2 + ul{
   text-decoration: underline;
+}
+
+span{
+  background-color: gold;
 }
